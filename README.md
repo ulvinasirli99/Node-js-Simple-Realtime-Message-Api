@@ -1,1 +1,7 @@
-# Node-js-Simple-Realtime-Message-Api
+ Node-js-Simple-Realtime-Message-Api
+ 
+ Libraries used : 
+
+. Express
+
+. Socket.io
